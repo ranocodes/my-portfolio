@@ -18,7 +18,7 @@ my motivation is i want to learn,relearn,unlern and share what ever i learnt wit
 ```bash
 git clone https://github.com/ranocodes/my-portfolio.git
 
-cd Simple-Portfolio
+cd my-Portfolio
 ```
 
 2. Open index.html in your browser to view the website.
